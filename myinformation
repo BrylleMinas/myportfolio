@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <title>My Profile</title>
+</head>
+<body bgcolor="powderblue">
+
+ <center><h2 style="font-family:verdana;"><b>Brylle Justin Minas</b><br>
+<br>
+<img src="akoto.png", width="200", height="200"></h2>
+ 
+<hr><h2>BIO</h2></hr>
+<p>He is currently studying on 2nd year of college taking BSIT at National University Fairview. Once he graduates, he wants to pursue being a web developer. He aims to be a successful person someday to achieve his goals and dreams in life. He needs to study hard in order to reach his dreams and goals.</p> 
+<h2><hr>ABOUT MYSELF</h2></hr>
+ <label>AGE:</label>
+ <h3>20 years old</h3>
+
+ <label>BORN ON:</label>
+ <h3>October 17 2003</h3>
+
+ <label>STRAND TOOK IN SENIOR HIGH SCHOOL:</label>
+ <h3>STEM Strand</h3>
+
+ <label>YEAR GRADUATED SENIOR HIGH SCHOOL:</label>
+ <h3>2022</h3>
+
+ <hr><label>FAVORITE QUOTE:</label></hr>
+<b><pre>"All our dreams can come true, if we have the courage to pursue them." - Walt Disney</b></pre></center>
+
+</body>
+</html>
